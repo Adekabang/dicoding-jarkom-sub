@@ -1,7 +1,10 @@
 # Dicoding Submission Belajar Jaringan Komputer untuk Pemula
 
 ### Nginx
+
 Untuk menggunakan konfigurasi NGINX 
+
+---
 
 1. Install NGINX mengunakkan command:
 ```
@@ -17,7 +20,10 @@ sudo systemctl status nginx
 ```
 
 ### Apache2
+
 Untuk menggunakan konfigurasi Apache2 
+
+---
 
 1. Install Apache2 menggunakan command:
 ```
@@ -61,6 +67,9 @@ npm run start
 ### Referensi
 
 Tautan referensi yang membantu pekerjaan 
+
+---
+
 [Dicoding - Belajar Jaringan Komputer untuk Pemula](https://www.dicoding.com/academies/387/tutorials/23123)
 [How To Use Apache as a Reverse-Proxy with mod_proxy on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-use-apache-http-server-as-reverse-proxy-using-mod_proxy-extension-ubuntu-20-04)
 
